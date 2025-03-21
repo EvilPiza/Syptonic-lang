@@ -8,7 +8,7 @@
 - Loops (`for`, `foreach`, and `while`)
 - Variable immutability
 - Basic arithmetic operations (`+`, `-`, `*`, `/`, `++`, `--`, `+=`, `-=`, `*=`, `/=`)
-- Optional static typing (You can use the `any` type to bypass)
+- Optional type annotation (You can use the `any` type if you wanna)
 - `match-find` statements! basically `match-case` but weird!!
 
 ## Coming Soon
