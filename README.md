@@ -18,9 +18,9 @@
 
 ## How to work bat file (for dummies)
 
-- Just run the `.bat` file with the parameter of your Syptonic file!
+- Just run the `.bat` file with the name of your Syptonic file!
 - To only *Compile* Syptonic and not run it just add `-c` to the end!!
-- To delete the Python file after it runs add the `-d` parameter!!
+- To delete the Python file after it runs add the `-d` flag!!
 ```bash
-syptonic.bat -c
+syptonic.bat -c main.syp
 ```
